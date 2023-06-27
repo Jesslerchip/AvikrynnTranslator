@@ -1,0 +1,158 @@
+Phonetics
+Consonants
+Voiced: b, d, g, p, k, t, v, z, zh (as in “treasure”)
+Voiceless: f, s, sh (as in “ship”), th (as in “this”)
+Nasals: m, n
+Liquids: l, r
+Glides: w, j (like 'y' in "yes")
+Vowels
+Monophthongs: a (as in "cat"), ah (as in “all”), e (as in "bet"), i (as in
+“see”), o (as in "go"), u (as in “cut”), y (as in "bit")
+Diphthongs: ai (as in "eye"),  au (as in "cow"), ei (as in "say"),  ou (as in "goo")
+Monopthongs that can be combined to form diphthongs cannot do so to bridge
+syllables in a word. This is illegal, and these vowels (as monopthongs) can
+never be adjacent to each other.
+ For example,
+“reivykk” is a combination of
+“rei” and “vykk,” not “re,”
+“i,” and “vykk.” The same applies to o and u, a and u, and a and i.
+Note that consonants and vowels with multiple letters still count as a single consonant and vowel, unlike in English. For example, “zh” and “ai” are both one consonant and vowel. This is important for understanding proper syllable structure.
+Syllable Structure
+(C)(C)V(C)(C)
+(C): optional consonant
+V: vowel
+For example: “mysk” m(C)y(V)s(C)k(C) or “grel” g(C)r(C)e(V)l(C).
+Double Consonant Rule: If 1. a syllable ends the word, 2. there are multiple syllables in the word, and 3. there is exactly one consonant after the vowel, that consonant will be duplicated.
+For example: Reivynn, reivykk.
+This does not apply when the word only has multiple syllables due to a prefix or suffix. For example: ra-mei.
+More about prefixes and suffixes under the Nouns and Verbs bullets
+If a word has multiple syllables and then a prefix or suffix, the double consonant still applies. For example: Sylvirr-ahr
+Every syllable has its own meaning, and they combine to create new meanings. For example: Del - thought, syk - share, Delsykk - goblin-like creature with a hive mind connection
+All words must be either a single syllable, or a combination of single-syllable words.  For example, “Reivyn-spairr” combines “Rei," "vyn,” and “spair” rather than “Reivynnspairr,” which combines "Reivynn" and "spair" (and is incorrect).
+Syllables are pronounced with even timing and no emphasis (Rei-vykk as opposed to Rei-vykk or Rei-vykk)
+This does not necessarily apply during music
+Racial Differences in Avikrynn
+Aviriynn-en replace the final letter of the first syllable in a name with an apostrophe. They do not take the first syllable into the meanings of their names.
+“Fe’rynn” instead of “Feirynn.” Just means “soul”
+“De’vah” instead of “Deivah.” Just means “heart”
+Delsykk-en hyphenate syllables in a name rather than combining them. They still mean the same word.
+“Grel-dirr” instead of “Greldirr”
+“Rem-shi” instead of “Remshi”
+Vylpynn-en utilize the Double Consonant Rule on every syllable without exception in names. They still mean the same word.
+“Vell” instead of “Vel”
+Nouns
+Plurals: Add "-en" (as in “end”) to the end of a noun to make it plural (e.g., "mysk" - "mysk-en" - “cats”).
+Possession: Indicate possession by adding "-ahr" to the end of a noun (e.g., "jol mysk-ahr" - "the cat's toy").
+Technically, saying “jol ra-ahr mysk” (“the cat owns the toy”) is not incorrect, but this is a full sentence (“jol” is the object, “ra-ahr” the verb, and “mysk” the subject) whereas the possessive suffix combines the words into a single noun (“jol mysk-ahr” is the subject, but no verb or object has been introduced. The cat’s toy does what, and what does it do that to?)
+Note that the noun being owned comes first, and the noun owning it comes after. We call this the order of possession. Avikrynn uses the Owned, Owner order of possession.
+Verbs
+Tenses: Indicate tense using a prefix attached to the verb. You must always use a tense prefix, except on a command.
+Past: "va-" (e.g., "va-fysdahkk" - "ate")
+Present: "ra-" (e.g., "ra-fysdahkk" - "eats")
+Future: "ka-" (e.g., "ka-fysdahkk" - "will eat")
+Negation: Add "ni-" before the verb to make it negative (e.g., "ni-ra-fysdahkk" - "does not eat").
+Auxiliaries: To say could, should, or would, an extra prefix “ko-”, “sho-”, or “wo-”, should be used (before “ni-” if applicable, before the tense otherwise).
+For example, “sho-ni-ra-fysdahkk” - “should not be eating”
+Command: To change a verb into a command, you can add the “do-” prefix (before “ni-” if applicable).
+“do-ni-fysdahkk” - “do not eat”
+Note that on command verbs you cannot use a tense. This is the only case in which you do not add a tense.
+Note that on command verbs you also cannot use an auxiliary.
+Adjectives and Adverbs
+Adjectives are words that modify nouns to further describe them Place adjectives before the noun they modify (e.g., "raht mysk" - "red cat").
+Adverbs are words that modify verbs to further describe them. Place adverbs before the verb they modify (e.g., "byro ra-fysdahkk" - "quickly eats").
+Sentences
+Sentences in Avikrynn can have one of three moods
+Explanatory
+The explanatory mood is a standard sentence, used to “explain” information. These sentences end with a period
+Examining
+The examining mood is used to gather information, i.e. a question. These sentences begin with “se” and end with a question mark
+Exciting
+The exciting mood is used to raise emotions, i.e. exclaiming. These sentences begin with “be” and end with an exclamation
+Avikrynn uses the OVS (Object Verb Subject) word order
+Temporals and prepositions also have a specific place in the word order, but they are not always required. With them included, the word order is technically (TOPVS).
+Avikrynn sentences are always composed the same way. There is no short hand for a sentence, it must always contain the three elements (OVS) to be complete.
+When the object is ambiguous, Avikrynn provides two options.
+If the verb is not targeting anything (the verb does not affect an object), the object is the same as the subject. In English, someone might say “I ran,” but in Avikrynn this would be incorrect. To say “I ran” in Avikrynn, you need the speaker’s name. Assume this speaker is named, “Liynn.” “I ran” translated to Avikrynn in this instance would be, “Liynn va-mei Liynn.”
+The other option occurs when there is a target, but the target is ambiguous. For example, Liynn is teaching, but it is unclear what they are teaching about. In English, you might say “Liynn is teaching,” but in Avikrynn this is incorrect. To say “Liynn is teaching” in Avikrynn, we need a placeholder for the object. For this, we use “te,” or literally, “thing.” This sentence would be, “Te ra-delsynn Liynn.” - “Liynn is teaching the thing.”
+Without the actor’s name, you would use the placeholder “kah” in the above examples. In that case, the sentence would be “Kah va-mei kah,” or, “The actor/doer/agent ran themself,” and “Te ra-delsynn kah,” or, “The actor/doer/agent is teaching the thing.”
+Explanatory Rules
+Avikrynn’s basic sentence uses the explanatory mood.
+Like all sentences in Avikrynn, these follow the OVS word order.
+They follow the rules listed above, and have no special exceptions.
+Examining Rules
+Place "se" (pronounced like “set”) at the beginning of a sentence, and a question mark at the end, to change to an examining mood (e.g., "Se jol ra-fysdahkk?" - "[Does/Do] [he/she/it/you/I/we/they] eat the toy?").
+When asking “what,” always place the Avikrynn term for “what” (“e”) hyphenated with “se”. For example: “Se-e [object] ra-dahk [subject]?” - “What is [subject] doing to [object]?”
+When you want to say “who,” “how,” “where,” “when,” or “why,” you still use “e,” but replace the object with the proper term. Who is literally “what being,” how is “what method,” where is “what location,” when is “what time,” and why is “what reason”. For example: “Se-e vyl va-fysdahkk Prym?” - “What time (when) did Prym eat?”
+The word for question, or “se” is special. To avoid confusion, you should always use an apostrophe when using it as a noun.
+“Se’ ra-ahr mysk-en.” - “The cats have a question.”
+“Se se’ ra-ahr mysk-en?” - “Do the cats have a question?”
+Exciting Rules
+Place “be” (pronounced like “bet”) at the beginning of a sentence, and an exclamation mark at the end, to change to an exciting mood (e.g., “Be jol ra-fysdahkk!” - “[He/She/It/They/You/I/We] [want/wants] [eat/eats] the toy!")
+Basic Sentence examples
+"Jol ra-fysdahkk mysk." - "The cat eats the toy."
+"Mysk-en byro va-grol raht mysk-en." - "The red cats ran quickly."
+“Se mysk-en ka-fei mysk-en?” - “Will the cats fly?”
+“Be mysk-en byro ra-fei raht mysk-en!” - “The red cats are flying quickly!”
+Prepositions
+In Avikrynn, prepositions serve two functions.
+Describing the Direction of a Verb
+When a preposition describes the direction of a verb, it is always in relation to an object. The preposition will be placed directly after the object it points to.
+Example: “Rahk-en ahn byro ra-wek reivykk.” - “The reivykk walks quickly on the rocks.”)
+Linking Subjects or Objects
+Prepositions can also be used to link multiple subjects or objects. In this use case, the preposition should go between the subjects or objects it links.
+Example: “Veilyth ka-zhyrbynyks drah ki Fe’rynn.” - “Fe’rynn will hunt a veilyth with a sword.”
+Example: “Drah ki gahrd va-zhyr Fe’rynn.” - “Fe’rynn fought a guard with a sword.”
+See the difference? In English, those sentences are strangely ambiguous. Whether it is the subject or object holding the sword, English says it the same way. Not Avikrynn! Avikrynn moves the preposition depending on where the linked nouns are, so it is important to declare whether it is the subject or object that is linked to the sword.
+It sounds weird in English, but using the Avikrynn rules, these sentences translated would literally be “Fe’rynn with a sword will hunt a veilyth,” and “Fe’rynn fought a guard with a sword.” Fe’rynn has a sword, so “Fe’rynn with a sword” will hunt a veilyth. The guard has a sword, so Fe’rynn fought a “guard with a sword.” This is very helpful for understanding which nouns are linked to each other and which nouns are not.
+When using a preposition on a temporal, it becomes a temposition. More on temporals and tempositions later.
+Compound Sentences
+Avikrynn has conjunctions to choose from, such as “ent” (and) that can help create compound sentences (a combination of two or more independent clauses).
+For example, “Jol ra-fysdahkk mysk ent yll ra-nouvi mysk.” - “The cat eats the toy and the cat gets sick.”
+A new Avikrynn speaker may be tempted to form this compound sentence without the second subject. “Jol ra-fysdahkk mysk ent yll ra-nouvi.” - “The cat eats the toy and gets sick.” This is not correct. Remember, Avikrynn has no exceptions in grammar. You must always have the complete OVS word order for every clause, even if they are conjunct with others.
+Lists
+Continuing on from the point above, you can combine subjects, verbs, or objects together using lists.
+Lists are started by “ki,” and the terms of the list are separated by commas and encapsulated by single quotes. Lists are ended by, “kiot.”
+Subject example: “Jol ra-ahr ki ‘mysk, reivykk, veilyth’ kiot.” - “The cat, reivykk, and veilyth own the toy.”
+Verb example: “Jol ki ‘ra-ahr, ra-fysdahkk, ra-livah’ kiot mysk.” - “The cat owns, eats, and loves the toy.”
+Object example: “Ki ‘jol, kiilo, kol, mahr’ kiot ra-ahr mysk.” - “The cat owns the toy, companion, shield, and fire.”
+If there are multiple lists back to back, the “kiot” and “ki” will be separated by a comma.
+Combined example: “Ki ‘jol, kiilo, kol, mahr’ kiot, ki ‘ra-ahr, ra-fysdahkk, ra-livah’ kiot, ki ‘mysk, reivykk, veilyth’ kiot.” - “The cat, reivykk, and veilyth own, eat, and love the toy, companion, shield, and fire.”
+Numbers
+In Avikrynn, there are only “ones” digits (from 1-9), as well as place modifiers (ten, hundred, thousand, etc).
+The order of a number is: (P) (P) (P) … (P) O
+(P) - Optional place
+O - ones digit
+Note that this means the “ones” digit must always be present, even if it is zero (“ri”). For example: “riynndett-ri” - “ten”
+Each place of a number is separated by a hyphen. For example:
+“detbyksdett-rilo” - “ninety-four”
+To denote an ordinal number (first, second, third) you can affix the suffix “un” with an apostrophe.
+“detbyksdett-rilo’un” - “ninety-fourth”
+Temporals
+Temporals are words that describe the time of the sentence (today, tomorrow, yesterday, etc.)
+They are placed before any objects (and, if they are present, object-adjacent adjectives).
+Example: “Kadei grel rahk-en ka-fysdahkk mysk-en.” - “The cats will eat gray rocks tomorrow.”
+Temporals should never be used as objects. For example, to say “I ran yesterday,” one might be tempted to say “Vadei va-mei [your name].” However, this is incorrect. One should instead say, “Vadei [your name] va-mei [your name].” More information as to why this is can be found in the next section.
+Any time-based noun becomes a temporal if it refers to a specific time.
+Example: Someone might want to say, “Ranahks ka-fysdahkk mysk.” - “The cat will eat tonight.” This is incorrect, because tonight refers to a specific time. Instead, one should use a temporal. “Ranahks te ka-fysdahkk mysk.” - “The cat will eat a thing tonight.”
+Alternatively, you can say “Nahks dat ka-fysdahkk mysk,” or “The cat will eat at night.” In English, it may be assumed this means tonight specifically, but in Avikrynn this refers to the general concept of eating at night. This is not a temporal.
+The word “nahks” can become a temporal by changing it to be, “Nyks rimedd nahks-ahr,” or, “Next five nights.” This is now a specific period of time, and has been converted to a temporal. The same applies to “ji,” or day, as well as the words for week, month, year, etc.
+Tempositions
+Temporals are still technically nouns, and can also be altered by tempositions, or prepositions that describe time. These words can be unique to temporals (until, after), or they can be typical prepositions in the context of time (by, at, in, to, etc.). If the temporal has a temposition attached, the temporal should be separated from the rest of the sentence with a comma.
+Example: “Bai ranahks, grel rahk-en ka-fysdahkk mysk-en.” - “The cats will eat gray rocks before tonight.”
+Example: “Oun kadei, blau jol-en ka-fysdahkk mysk-en.” - “The cats will eat blue toys until tomorrow.”
+“Syllwynn” instead of “Sylwynn”
+Nested Sentences
+This is a complicated concept, and probably the hardest one to grasp in Avikrynn. Dependent clauses can actually serve as the objects of a sentence. We call this a nested sentence.
+In English, someone might say “I want to drink at the tavern tomorrow.” Converting that to Avikrynn should be simple, right? “I” is the subject, “want” is the verb, “tomorrow” is a temporal, and the object is… to drink? Tavern? Whoops.
+While this may seem like a problem, looking at the sentence as an encapsulation of a dependent clause may help. If you look closely, you’ll see that “to drink at the tavern” has its own verb, preposition, and object, but no subject. That makes it a dependent clause. In Avikrynn, we can use this entire dependent clause as the object.
+So, now we have [tomorrow] [to drink at the tavern] [want (present)] [I] as our word order. If we break down “to drink at the tavern” and put it into OVS order by itself (minus the subject and the article “the,” of course) we can rearrange that, too. Now our word order should be [tomorrow] [tavern] [at] [drink] [to] [want] [I]. That’s looking a lot more like Avikrynn’s word order!
+Finally, replace “I” with our speaker’s name and we should have this: “Kadei dryklenn dat ra-dryk tou ra-teka (speaker’s name).”
+Misc
+Articles and pronouns are not found in Avikrynn. This means sentence structure is based on context. Explicit usage of names and/or descriptions is the only way to specify a subject and object in Avikrynn.
+Word modifiers, prepositions, etc. are also recognized as words in Avikrynn. They can be used in sentences. For example: “Jol ra-ahr mysk-en.” - “The cats own a toy.”
+As a further explanation, “ahr” is being used as the verb form of “own.”
+Note that while the word modifiers for digit places (i.e. det, zhet, etc.) are their own words, they do not mean one of those units. For example, saying “det” in place of “riynndett” is incorrect.
+They instead should only be used for their literal meaning (for example, if you wanted to explain the answer to a math problem and it required you to analyze the ten’s place, or “det”).
+There are no complex or compound-complex sentences in Avikrynn. The closest thing to these is a nested sentence.
+The best tip to translate back and forth is to read it backwards! Avikrynn’s word order, when read backwards, is the same as English! Isn’t that fancy?
+"Kadei dryklenn dat ra-dryk tou ra-teka Vell." - Literally translated, this is “Tomorrow tavern at drink to want Vell.” But if you read it the other way, suddenly you have “Vell want to drink at tavern tomorrow.” That’s eerily close to English, isn’t it?
